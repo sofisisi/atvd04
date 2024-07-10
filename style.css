@@ -1,0 +1,27 @@
+header {
+background-color: black
+}
+
+header {
+color : white
+}
+
+header {
+text-align : center
+}
+
+footer {
+background-color : black
+}
+
+footer {
+color : white
+}
+
+footer {
+text-align : center
+}
+ 
+p {
+font-family: "Lucida Conole", Courier, monospace;; 
+}
